@@ -1,4 +1,4 @@
-package exercicio;
+package conta;
 
 import java.util.Scanner;
 
